@@ -8,7 +8,7 @@ A hack that adds Terastallization to Pokémon Black 2 and White 2.
 - One Terastallization per side per battle
 - A Tera button (tap it or press **L**)
 - Important trainers use the mechanic once you get the Orb
-- You get the Orb from Colress at your first encounter with him
+- You get the Orb from Colress at your first encounter with him. If you are loading an existing savegame after the fight the businessman will give it to you after you have the 4th gym badge
 - You can change your Tera type with the businessman in the Pokémon Center in Castelia City
 
 ## Patching
