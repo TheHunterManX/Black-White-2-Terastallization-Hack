@@ -1,5 +1,6 @@
 # Black & White 2 Terastallization Hack
 A hack to add terastallization to Black and White 2
+
 Features:
 The Tera type byte, stored in 0x86 of the pokemon data
 One Terastallization per side per battle
